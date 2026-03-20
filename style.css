@@ -185,8 +185,12 @@
      font-size: 0.8rem;
      color: #ffffff;
      padding: 10px;
-
+     font-weight: 500;
      margin-top: 10px;
+     text-shadow: -0.5px -0.5px 0 #000,
+    0.5px -0.5px 0 #000,
+    -0.5px 0.5px 0 #000,
+    0.5px 0.5px 0 #000;
  }
 
  /* Адаптивность */
